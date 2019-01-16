@@ -1,0 +1,3 @@
+cd /tmp/src && /opt/rh/apache-ant-1.9.13/bin/ant clean-build
+cp /tmp/src/build/jar/migant.jar  /deployments
+ls /deployments
